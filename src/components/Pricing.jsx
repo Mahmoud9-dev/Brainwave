@@ -1,0 +1,47 @@
+import React from "react";
+import Section from "./Section";
+import { smallSphere } from "../assets";
+import { stars } from "../assets";
+import Heading from "./Heading";
+import PricingList from "./PricingList";
+import { LeftLine, RightLine } from "./design/Pricing";
+const Pricing = () => {
+  return (
+    <Section className="overflow-hidden" id="pricing">
+      <div className="container relative z-2">
+        <div className="relative flex justify-center mb-8 lg:mb-[6.5rem]">
+          <img
+            src={smallSphere}
+            className="relative z-10 w-32 h-32 sm:w-48 sm:h-48 lg:w-64 lg:h-64"
+            width={255}
+            height={255}
+            alt="Sphere"
+          />
+
+          <div className="absolute top-1/2 left-1/2 w-full max-w-[90vw] lg:max-w-[60rem] -translate-x-1/2 -translate-y-1/2 pointer-events-none">
+            <img
+              src={stars}
+              className="w-full"
+              width={950}
+              height={400}
+              alt="Stars"
+            />
+          </div>
+        </div>
+
+        <Heading
+          tag="Get started with Brainwave"
+          title="Pay one, use forever"
+        />
+
+        <div className="relative">
+          <PricingList />
+          <LeftLine />
+          <RightLine />
+        </div>
+      </div>
+    </Section>
+  );
+};
+
+export default Pricing;
