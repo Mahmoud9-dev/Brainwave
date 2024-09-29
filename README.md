@@ -84,7 +84,6 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 Your Name - [Mahmoud0114829@gmail.com](mailto:Mahmoud0114829@gmail.com)
 
-Project Link: [https://github.com/your-username/brainwave](https://github.com/your-username/brainwave)
 
 ---
 
