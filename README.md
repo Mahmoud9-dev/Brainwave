@@ -1,7 +1,7 @@
 # 🚀 Brainwave - Modern UI/UX Website
 
 <div align="center">
-  <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Brainwave Project Banner">
+![image](https://github.com/user-attachments/assets/c23e9177-85af-4e0f-a4a8-14bdb5bb3d01)
 
   <p>
     <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -11,7 +11,7 @@
 
   <h3>A cutting-edge UI/UX website showcasing modern design principles and advanced React techniques</h3>
 
-  <a href="https://jsm-brainwave.com/" target="_blank"><strong>🔗 Live Demo</strong></a>
+  <a href="https://brainwave-mnd.netlify.app/" target="_blank"><strong>🔗 Live Demo</strong></a>
 </div>
 
 ## 🌟 Key Features
@@ -50,7 +50,13 @@
 
 ## 📸 Screenshots
 
-[Add 2-3 attractive screenshots of your project here]
+![image](https://github.com/user-attachments/assets/3bcc293f-1ab9-4e5b-8cac-e2e7cee6fb29)
+
+![image](https://github.com/user-attachments/assets/d5ba7ede-3012-40d3-bf14-ba59a3dfda68)
+
+![image](https://github.com/user-attachments/assets/5058aa19-c016-4acd-a678-7ff7aa4bd17b)
+
+
 
 ## 🎨 Design Philosophy
 
@@ -74,7 +80,7 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 ## 📬 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [Mahmoud0114829@gmail.com](mailto:Mahmoud0114829@gmail.com)
 
 Project Link: [https://github.com/your-username/brainwave](https://github.com/your-username/brainwave)
 
