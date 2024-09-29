@@ -1,7 +1,9 @@
 # 🚀 Brainwave - Modern UI/UX Website
 
 <div align="center">
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/e4579c9e-41e0-47b5-8b65-3762559371d6)
+
 
   <p>
     <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
