@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
+
 ![Features](https://github.com/user-attachments/assets/9a7db390-84fc-461c-bd39-bef2249b5749)
 
 <h3>This isn't just a website; it's a demonstration of how a modern UI can be engineered to capture attention, build trust, and drive user engagement.</h3>
