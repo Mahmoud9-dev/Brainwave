@@ -36,7 +36,7 @@ In today's crowded digital landscape, a generic website fails to make an impact.
 This project is a testament to my ability to deliver tangible business value. Here's what it proves I can do for you:
 
 *   **High-Performance Engineering That Drives Conversions:**
-    Achieved a **98 Performance score** on Lighthouse and a load time of under 1.5s. This directly translates to lower bounce rates, higher user satisfaction, and better SEO rankings for your project.
+    Achieved a load time of under 1.5s. This directly translates to lower bounce rates, higher user satisfaction, and better SEO rankings for your project.
 
 *   **Translating Complex Designs into Intuitive Experiences:**
     I have a proven ability to take a sophisticated UI design and build it pixel-perfect. This ensures the final product is not only beautiful but also intuitive and conversion-focused.
@@ -44,13 +44,6 @@ This project is a testament to my ability to deliver tangible business value. He
 *   **Crafting Scalable & Maintainable Codebases:**
     The project is built on a foundation of clean, modular React components. This approach significantly **reduces future development costs** by making your application easier to maintain and scale.
 
----
-
-## 💬 What My Clients Say
-
-> "Mahmoud didn't just deliver a beautiful website; he delivered a high-performance asset. The speed and attention to detail were exceptional, and the collaborative process was seamless from start to finish. We saw an immediate positive reaction from our users."
->
-> **— CEO of a Tech Startup**
 
 ---
 
@@ -93,8 +86,8 @@ This modern stack was chosen specifically for its performance, scalability, and 
 Are you looking for a developer who understands that a great UI is a business investment? If you're ready to build a digital experience that delivers measurable results, I'd love to connect.
 
 **Mahmoud**
-- 📧 **Email:** [Mahmoud0114829@gmail.com](mailto:Mahmoud0114829@gmail.com)
-- 🔗 **LinkedIn:** [Your LinkedIn Profile URL]
+- 📧 **Email:** [Mahmoud0114829@gmail.com](mailto:Mahmoudnasredeen099@gmail.com)
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/mahmoud-nasredeen/]
 
 ---
 
