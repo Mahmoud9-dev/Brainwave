@@ -11,14 +11,17 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
+![Features](https://github.com/user-attachments/assets/9a7db390-84fc-461c-bd39-bef2249b5749)
 
 <h3>This isn't just a website; it's a demonstration of how a modern UI can be engineered to capture attention, build trust, and drive user engagement.</h3>
+
 
 <a href="https://brainwave-mnd.netlify.app/" target="_blank"><strong>🔗 View Live Demo</strong></a>
    |   
 <a href="[LINK_TO_YOUR_PITCH_DECK.PDF]" target="_blank"><strong>📄 Download Pitch Deck (PDF)</strong></a>
 
 </div>
+![Uploading Features 1.jpg…]()
 
 ## 🎯 The Challenge & The Solution
 
@@ -43,9 +46,11 @@ This project is a testament to my ability to deliver tangible business value. He
 
 *   **Crafting Scalable & Maintainable Codebases:**
     The project is built on a foundation of clean, modular React components. This approach significantly **reduces future development costs** by making your application easier to maintain and scale.
+![Uploading Features 2.jpg…]()
 
 
 ---
+![Pricing](https://github.com/user-attachments/assets/b6aada88-b475-4ba0-8801-0319ebe660ce)
 
 ## 🛠️ The Tech Stack: Performance by Design
 
@@ -60,6 +65,9 @@ This modern stack was chosen specifically for its performance, scalability, and 
   <summary><strong>🚀 Quick Start (For Developers)</strong></summary>
 
   <br>
+
+![Uploading Features 4.jpg…]()
+
 
   1.  Clone the repository:
       ```sh
@@ -80,6 +88,7 @@ This modern stack was chosen specifically for its performance, scalability, and 
 </details>
 
 ---
+![Uploading Features.jpg…]()
 
 ## 🤝 Let's Build an Asset, Not Just a Website
 
