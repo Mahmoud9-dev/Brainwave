@@ -1,4 +1,4 @@
-# 🚀 Brainwave - A Blueprint for Modern Digital Experiences
+![Features](https://github.com/user-attachments/assets/13bf9047-1f1c-438f-a5f5-8373a3e2895e)![Features 1](https://github.com/user-attachments/assets/df794927-fd92-48f2-a658-d44df1585e36)# 🚀 Brainwave - A Blueprint for Modern Digital Experiences
 
 <div align="center">
 
@@ -18,11 +18,10 @@
 
 
 <a href="https://brainwave-mnd.netlify.app/" target="_blank"><strong>🔗 View Live Demo</strong></a>
-   |   
-<a href="[LINK_TO_YOUR_PITCH_DECK.PDF]" target="_blank"><strong>📄 Download Pitch Deck (PDF)</strong></a>
+   
+![Features 1](https://github.com/user-attachments/assets/1adcada5-1558-401d-9b88-92f39b0df74f)
 
 </div>
-![Uploading Features 1.jpg…]()
 
 ## 🎯 The Challenge & The Solution
 
@@ -34,6 +33,9 @@ In today's crowded digital landscape, a generic website fails to make an impact.
 - **Capture the Entire Mobile Market:** By providing a seamless, fully responsive experience on any device.
 
 ---
+
+![Features 3](https://github.com/user-attachments/assets/1e71e7e2-c9dc-46d6-9636-05190a6cb0b2)
+
 
 ## ✅ Business Impact & Capabilities Demonstrated
 
@@ -47,7 +49,6 @@ This project is a testament to my ability to deliver tangible business value. He
 
 *   **Crafting Scalable & Maintainable Codebases:**
     The project is built on a foundation of clean, modular React components. This approach significantly **reduces future development costs** by making your application easier to maintain and scale.
-![Uploading Features 2.jpg…]()
 
 
 ---
@@ -66,8 +67,6 @@ This modern stack was chosen specifically for its performance, scalability, and 
   <summary><strong>🚀 Quick Start (For Developers)</strong></summary>
 
   <br>
-
-![Uploading Features 4.jpg…]()
 
 
   1.  Clone the repository:
@@ -89,7 +88,8 @@ This modern stack was chosen specifically for its performance, scalability, and 
 </details>
 
 ---
-![Uploading Features.jpg…]()
+
+![Features 4](https://github.com/user-attachments/assets/9dcf64e7-753b-4f42-b0e3-36b8528a95ae)
 
 ## 🤝 Let's Build an Asset, Not Just a Website
 
